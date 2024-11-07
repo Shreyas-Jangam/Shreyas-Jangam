@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **Collaborating on AI/ML projects, particularly in the areas of GEN-AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shreyasjangam102](https://github.com/Shreyas-Jangam)
+- 👨‍💻 All of my projects are available at [https://github.com/Shreyas-Jangam](https://github.com/Shreyas-Jangam)
 
 - 📝 I regularly write articles on [https://medium.com/@shreyasjangam010](https://medium.com/@shreyasjangam010)
 
 - 💬 Ask me about **blockchain,cloud computing,React & AI & ML,**
 
-- 📫 How to reach me **shreyasjangam102@gmail.com**
+- 📫 How to reach me **shreyasjangamofficial@gmail.com**
 
 - 📄 Know about my experiences [https://app.enhancv.com/share/bad3119d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/bad3119d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
