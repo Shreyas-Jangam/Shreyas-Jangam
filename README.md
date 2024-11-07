@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Collaborating on AI/ML projects, particularly in the areas of GEN-AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shreyasjangam102](https://github.com/shreyasjangam102)
+- 👨‍💻 All of my projects are available at [https://github.com/shreyasjangam102](https://github.com/Shreyas-Jangam)
 
 - 📝 I regularly write articles on [https://medium.com/@shreyasjangam010](https://medium.com/@shreyasjangam010)
 
