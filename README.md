@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://app.enhancv.com/share/bad3119d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/bad3119d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
-- ⚡ Fun fact **I code like I’m in Game of Thrones—always playing the long game, preparing for the inevitable winter (aka deadlines), and aiming for the throne of problem-solving!**
+- ⚡ Fun fact **I’m a developer who definitely sticks to the plan… unless a new tech idea shows up, then all bets are off!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
