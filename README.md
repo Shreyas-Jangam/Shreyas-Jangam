@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shreyasjangam010](https://medium.com/@shreyasjangam010)
 
-- 💬 Ask me about **blockchain,cloud computing,React & AI & ML,**
+- 💬 Ask me about **blockchain,cloud computing,React, AI & ML,**
 
 - 📫 How to reach me **shreyasjangamofficial@gmail.com**
 
