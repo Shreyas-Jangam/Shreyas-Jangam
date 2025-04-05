@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shreyasjangamofficial@gmail.com**
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/bad3119d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/bad3119d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+
 
 - ⚡ Fun fact **I’m a developer who definitely sticks to the plan… unless a new tech idea shows up, then all bets are off!**
 
