@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Generative AI for Content Creation**
 
-- 🌱 I’m currently learning **TensorFlow, scikit-learn & Hugging Face Transformers**
+- 🌱 I’m currently learning **ServiceNow, AWS Cloud Practitioner, TensorFlow, scikit-learn & Hugging Face Transformers**
 
 - 🤝 I’m looking for help with **Collaborating on AI/ML projects, particularly in the areas of GEN-AI**
 
