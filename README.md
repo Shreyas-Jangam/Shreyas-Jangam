@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **TensorFlow, scikit-learn & Hugging Face Transformers**
 
-- 👯 I’m looking to collaborate on **Data Labeling for Retinitis Pigmentosa**
-
 - 🤝 I’m looking for help with **Collaborating on AI/ML projects, particularly in the areas of GEN-AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreyas-Jangam](https://github.com/Shreyas-Jangam)
